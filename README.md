@@ -317,9 +317,142 @@ R: O elemento removido é o que está na estrutura há mais tempo.
 
 - Introdução e objetivos
 - O que são árvores
+
+![](img/mod3/slide029.png)
+
+![](img/mod3/slide030.png)
+
 - O que são tabelas hash
+
+![](img/mod3/slide031.png)
+
+![](img/mod3/slide032.png)
+
+![](img/mod3/slide033.png)
+
+![](img/mod3/slide034.png)
+
 - O que são grafos
+
+![](img/mod3/slide035.png)
+
+![](img/mod3/slide036.png)
+
+![](img/mod3/slide037.png)
+
 - Certifique seu conhecimento
+
+```
+Quais os elementos existentes na estrutura árvore?
+Raiz e galhos
+Fotossíntese e protossíntese.
+Tronco e folhas.
+Raiz e nós (folhas).
+Ramos e sulcos.
+
+R: Raiz e nós (folhas).
+
+```
+
+```
+Qual o nome da representação dos objetos em um grafo?
+Matrizes ou Vetores.
+Vértices ou Nós.
+Arrays ou Arreys.
+Dobra ou Vértice.
+Nenhuma das alternativas.
+
+R: Vértices ou Nós.
+```
+
+```
+Qual o nome da representação de um relacionamento em um grafo?
+Folhas.
+Arestas.
+Nós.
+Chaves.
+Linha.
+
+R: Arestas.
+```
+
+```
+De que forma ficam estruturados os elementos em uma Tabela Hash?
+Não ordenada.
+Alfabética.
+Numérica.
+Ordenada.
+Inversa.
+
+R: Não ordenada.
+```
+
+```
+O que é uma estrutura do tipo Árvore?
+É uma estrutura de dados que organiza seus elementos de forma hierárquica.
+É uma estrutura de dados que organiza seus elementos de forma repetida.
+É uma estrutura de dados que organiza seus elementos de forma desordenada.
+É uma estrutura de dados que organiza seus elementos de forma duplicada.
+É uma estrutura de dados que organiza seus elementos de forma ordenada.
+
+R: É uma estrutura de dados que organiza seus elementos de forma hierárquica.
+```
+
+```
+Quais os nomes dos elementos existentes na estrutura Tabela Hash?
+Chaves e índices.
+Chaves e valores.
+Índices e cadeados.
+Índices e valores.
+Chaves e cadeados.
+
+R: Chaves e valores.
+```
+
+```
+O que é uma estrutura do tipo Tabela Hash?
+É uma estrutura de dados especial, que associa chaves de pesquisa a valores.
+É uma estrutura de dados especial, que contem linhas e colunas.
+É uma estrutura de dados especial, similar a uma tabela.
+É uma estrutura de dados especial, similar a uma planilha.
+É uma estrutura de dados especial, similar a lista ligada do tipo FIFO.
+
+R: É uma estrutura de dados especial, que associa chaves de pesquisa a valores.
+```
+
+```
+O que são grafos?
+São estruturas que permitem programar a relação entre índices.
+Garfos.
+São estruturas que permitem programar a relação entre objetos.
+São estruturas que permitem programar a relação entre valores.
+São estruturas que permitem criar uma algoritmo com vários algoritmos.
+
+R: São estruturas que permitem programar a relação entre objetos.
+```
+
+```
+Quais os outros nomes dados a estrutura Tabela Hash?
+Tabela ou Planilha.
+Tabela de dispersão ou espalhada.
+Tabela de dispersão ou Tabela de espalhamento.
+Tabela de repressão ou Tabela espalha tudo.
+Tabela Garming ou Tabela de Dados.
+
+R: Tabela de dispersão ou Tabela de espalhamento.
+```
+
+```
+Qual o nome da função que causa o espalhamento de dados numa Tabela Hash?
+Hash.
+Hashing.
+Hashear.
+Espalhar.
+Nenhuma das alternativas.
+
+R: Hashing.
+
+```
 
 [Voltar ao Índice](#indice)
 
