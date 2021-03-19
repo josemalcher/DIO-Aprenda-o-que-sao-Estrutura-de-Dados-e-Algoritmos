@@ -170,9 +170,143 @@ R: Array.
 
 - Introdução e objetivos
 - O que são listas
+
+![](img/mod2/slide014.png)
+
+![](img/mod2/slide015.png)
+
+![](img/mod2/slide016.png)
+
+![](img/mod2/slide017.png)
+
+![](img/mod2/slide018.png)
+
+![](img/mod2/slide019.png)
+
+![](img/mod2/slide020.png)
+
 - O que são pilhas
+
+![](img/mod2/slide021.png)
+
+![](img/mod2/slide022.png)
+
+![](img/mod2/slide023.png)
+
+![](img/mod2/slide024.png)
+
+![](img/mod2/slide025.png)
+
+![](img/mod2/slide026.png)
+
 - O que são filas
+
+![](img/mod2/slide027.png)
+
+![](img/mod2/slide028.png)
+
 - Certifique seu conhecimento
+
+```
+Qual a diferença das listas ligadas para as duplamente ligadas?
+As duas estruturas são iguais.
+Nenhuma.
+Uma estrutura vai para um lado, a outra vai para o outro e vice e versa.
+A Lista Ligada é bidirecional e a Duplamente Ligada é unidirecional.
+A lista Ligada é unidirecional e a Duplamente Ligada é bidirecional.
+
+R: A lista Ligada é unidirecional e a Duplamente Ligada é bidirecional.
+```
+
+```
+Qual o critério utilizado pela pilha tipo LIFO?
+O primeiro elemento a ser retirado é o último que tiver sido inserido.
+O segundo elemento a ser retirado é o primeiro que tiver sido inserido.
+O elemento do meio é o primeiro que tiver sido inserido.
+O terceiro elemento a ser retirado é o primeiro que tiver sido inserido.
+O primeiro elemento a ser retirado é o primeiro que tiver sido inserido.
+
+R: O primeiro elemento a ser retirado é o último que tiver sido inserido.
+```
+
+```
+Quais as siglas corretas dos dois tipos de pilhas existentes (tanto em inglês como português)?
+Nenhuma das alternativas.
+RICO (UEPS) e CHICO (COCA).
+TUPLA (TEPS) e SUPLA(ROCK).
+RIFO (REPS) e RIFA (PEPSI).
+LIFO (UEPS) e FIFO (PEPS).
+
+R: LIFO (UEPS) e FIFO (PEPS).
+```
+
+```
+Quais os dois tipos conhecidos de estruturas do tipo Lista?
+Passadas e Duplamente Passadas.
+Arvores e Nós.
+Ligadas e Duplamente Ligadas.
+Fuzzing e Digitadas.
+Tuneladas e Ligadas.
+
+R: Ligadas e Duplamente Ligadas.
+```
+
+```
+Para que serve a Estrutura do tipo Pilha?
+É uma estrutura de dados que serve como uma subtração de elementos e permite o acesso a somente um item de dados armazenado.
+Para nenhuma aplicação sequer.
+É uma estrutura de dados que serve como uma soma de índices e permite o acesso a todos os dados armazenados.
+É uma estrutura qualquer como as outras.
+É uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado.
+
+R: É uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado.
+```
+
+```
+Qual conceito da estrutura do tipo Pilha é também utilizado na estrutura Fila?
+Grafo.
+Vetor.
+LIFO.
+Nó.
+FIFO.
+
+R: FIFO
+
+```
+
+```
+Qual o critério utilizado pela pilha tipo FIFO?
+O terceiro elemento a ser retirado é o primeiro que tiver sido inserido.
+O elemento do meio é o primeiro que tiver sido inserido.
+O último elemento a ser retirado é o primeiro que tiver sido inserido.
+O primeiro elemento a ser retirado é o primeiro que tiver sido inserido.
+O segundo elemento a ser retirado é o primeiro que tiver sido inserido.
+
+R: O primeiro elemento a ser retirado é o primeiro que tiver sido inserido.
+```
+
+```
+Como é feito o acesso aos itens de uma pilha?
+O acesso aos itens de uma pilha é irrestrito – todos os itens podem ser lido ou removidos de uma só vez.
+O acesso aos itens de uma pilha é restrito – somente um item pode ser lido ou removido por vez.
+O acesso aos itens de uma pilha é idêntico a um vetor.
+O acesso aos itens de uma pilha é irrestrito - somente um item pode ser lido ou removido por vez.
+O acesso aos itens de uma pilha é restrito –todos os itens podem ser lido ou removidos de uma só vez.
+
+R: O acesso aos itens de uma pilha é restrito – somente um item pode ser lido ou removido por vez.
+
+```
+
+```
+Qual a regra utilizada em uma estrutura do tipo Fila?
+O elemento removido é o primeiro da estrutura.
+O elemento removido é o que está na estrutura há mais tempo.
+Todas as alternativas estão corretas.
+O elemento removido é o segundo da estrutura.
+O elemento removido é o que está na estrutura há menos tempo.
+
+R: O elemento removido é o que está na estrutura há mais tempo.
+```
 
 [Voltar ao Índice](#indice)
 
